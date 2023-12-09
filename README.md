@@ -20,7 +20,7 @@
 
   ### Этапы работы над проектом
   - [Исследование структуры данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#research)
-  - [Преобразование данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#transformation)
+  - [Преобразование данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#section-10)
   - [Исследование зависимостей в данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#cell15)   
     #### Ссылки на графики, поддерживаемые и не поддерживаеммые платформой GitHub вместе с выводами:
     - [Графики распределения признака ''Возраст''](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Графики_распределения_признака_''Возраст''.html)
