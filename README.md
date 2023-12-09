@@ -36,7 +36,7 @@
      - [Зависимость медианной желаемой ЗП от готовности к переезду и готовности к командировкам](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Зависимость_медианной_желаемой_ЗП_от_готовности_к_переезду_и_готовности.html)
      - [Зависимость опыта работы от возраста](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Зависимость_опыта_работы_от_возраста.html)
      - [Распеределение желаемой ЗП в зависимости от пола соискателя](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Распеределение_желаемой_ЗП_в_зависимости_от_пола_соискателя.html)
-     - [Зависимость медианной желаемой ЗП от города и желания работать удалённо](Диаграмма_медианной_желаемой_ЗП_от_уровня_образования.html)
+     - [Зависимость медианной желаемой ЗП от города и желания работать удалённо](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Зависимость_медианной_желаемой_ЗП_от_города_и_желания_работать_удалённо)
      #### Также все ссылки продублированны в основном [ноутбуке проекта](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solution.ipynb)
   - Очистка данных   
   Устранение аномальных значений, пропусков в данных и выбросов.
