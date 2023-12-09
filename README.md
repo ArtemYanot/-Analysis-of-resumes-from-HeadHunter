@@ -3,7 +3,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/README.md#Описание-проекта)   
 [2. Краткая информация о данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/README.md#Краткая-информация-о-данных)   
-[3. Задачи](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/README.md#Этапы-работы-над-проектом)   
+[3. Задачи](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/README.md#Задачи)   
 [4. Результат](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/README.md#Результат)
  
  ### Описание проекта
