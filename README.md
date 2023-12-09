@@ -21,7 +21,7 @@
   ### Этапы работы над проектом
   - [Исследование структуры данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#research)
   - [Преобразование данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#transformation)
-  - [Исследование зависимостей в данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#dependencies)   
+  - [Исследование зависимостей в данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#section-15)   
     #### Ссылки на графики, поддерживаемые и не поддерживаеммые платформой GitHub вместе с выводами:
     - [Графики распределения признака ''Возраст''](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Графики_распределения_признака_''Возраст''.html)
         - [Вывод](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#conclusion1)
@@ -41,8 +41,8 @@
         - [Вывод](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#conclusion8)
      - [Распеределение желаемой ЗП в зависимости от пола соискателя](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Распеределение_желаемой_ЗП_в_зависимости_от_пола_соискателя.html)
         - [Вывод](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#conclusion9)
-     - [Зависимость медианной желаемой ЗП от города и желания работать удалённо](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Зависимость_медианной_желаемой_ЗП_от_города_и_желания_работать_удалённо.html)
-        - [Вывод](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#conclusion10)
+     - [Зависимость медианной желаемой ЗП от города и желания работать удалённо](Диаграмма_медианной_желаемой_ЗП_от_уровня_образования.html)
+        - [Вывод](conclusion10)
 
   - [Очистка данных](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/solutions.ipynb#clear)
 
