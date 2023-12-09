@@ -28,7 +28,7 @@
   - Исследование зависимостей в данных   
   Выявление зависимостей в данных и отоброжение их на графиках вместе с выводами
     #### Ссылки на графики, не поддерживаеммые платформой GitHub:
-    - [Графики распределения признака ''Возраст''](https://htmlpreview.github.io/?https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Графики_распределения_признака_''Возраст''.html)   
+    - [Графики распределения признака ''Возраст''](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Графики_распределения_признака_''Возраст''.html)   
     - [Графики распределения признака ''Опыт работы (месяц)''](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Графики_распределения_признака_''Опыт_работы_месяц''.html)
      - [Графики распределения признака ''ЗП (руб)''](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Графики_распределения_признака_''ЗП_руб''.html)
      - [Диаграмма медианной желаемой ЗП от уровня образования](https://github.com/ArtemYanot/-ANALYSIS-OF-RESUMES-FROM-HEADHUNTER/tree/main/Charts/Диаграмма_медианной_желаемой_ЗП_от_уровня_образования.html)
